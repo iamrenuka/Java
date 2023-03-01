@@ -6,7 +6,6 @@ public class QuotientRemainder {
 
     int quotient = dividend / divisor;
     int remainder = dividend % divisor;
-//output
     System.out.println("Quotient = " + quotient);
     System.out.println("Remainder = " + remainder);
   }
